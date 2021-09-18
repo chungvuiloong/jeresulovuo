@@ -14,7 +14,7 @@ I dabble in coding with several projects and hope to work with you coders!!
 - 🌱 I’m currently learning **C#, Java, React, Kotlin.**
 - 👯 I’m looking to collaborate on **building new projects for building my portfolio.**
 - 💻 I'm looking for opportunities **to work as coder in Finland.**
-- ⚡ Fun fact: I say "I love coffee" in 5 languages.
+- ⚡ Fun fact: I can say "I love coffee" in 5 languages.
 - 🧏 About me: 
 - 📁 Portfolio: Check out my portfolio https://github.com/jirimicvl/portfolio  
 
@@ -22,4 +22,42 @@ I dabble in coding with several projects and hope to work with you coders!!
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: MrJay, he, him,  -->
+
+## My completed studies so far
+
+### Xamk
+- Module 1 - Introduction to development tools
+- Module 2 - Outline for 'The Return' -text based adventure
+- Module 3 - An interactive Card Combat Game
+- Module 4 - Pixel Art
+- Module 5 - Mobile Gaming
+- Module 11 - History of Games 
+- Module 11 - Ideation and Value Creation in Games
+- Module 12 - Game Concept Design
+- Module 12 - Game Experience analysis
+- Module 13 - Artificial Intelligence for Games
+- Module 13 - Innovation in Games
+- Module 14 - Video Games Production
+- Module 14 - Games Industry and Data Analytics
+- Module 16 - Analysis of The Game I Play Now
+
+- Entrepreneurship and Small Business Marketing
+- Customer experience management
+- Fundamentals of strategic management
+- Customer service process planning
+
+### Metropolia
+- SQL and Relation Databases
+- Introduction to Java Programming
+- Introduction to C# programming
+- Python Programming
+- PHP Programming
+- Introduction to Kotlin
+- Introduction to Javascript
+- C++ Programming
+- C - Programming
+
+### Laurea
+- Digital Service Business and Marketing
+- Internet Business Models
 
