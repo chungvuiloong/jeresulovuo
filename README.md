@@ -1,8 +1,14 @@
 ## Whats up world! 👋
 
-### MrJay here!!
+### Jere here!!
 
-Currently living in Finland and enjoying the nature. Enjoy learning languages. Work both hard and smart.
+I am looking for coding opportunities to be a coder in Finland or Europe region. It is simply because I love coding and problem solving.
+
+Plus I am currently living in Finland.
+
+At the moment, I am studying via Xamk, Metroplia and also Laurea for any coding or IT related courses.
+
+I dabble in coding with several projects and hope to work with you coders!!
 
 - 🔭 I’m currently working on **making myself proficient in coding languages and building my portfolio**.
 - 🌱 I’m currently learning **C#, Java, React, Kotlin.**
@@ -10,6 +16,7 @@ Currently living in Finland and enjoying the nature. Enjoy learning languages. W
 - 💻 I'm looking for opportunities **to work as coder in Finland.**
 - ⚡ Fun fact: I say "I love coffee" in 5 languages.
 - 🧏 About me: 
+- 📁 Portfolio: Check out my portfolio https://github.com/jirimicvl/portfolio  
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
