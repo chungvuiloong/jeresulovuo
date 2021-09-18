@@ -10,12 +10,13 @@ At the moment, I am studying via Xamk, Metroplia and also Laurea for any coding 
 
 I dabble in coding with several projects and hope to work with you coders!!
 
+### 🧏 About me: 
+
 - 🔭 I’m currently working on **making myself proficient in coding languages and building my portfolio**.
 - 🌱 I’m currently learning **C#, Java, React, Kotlin.**
 - 👯 I’m looking to collaborate on **building new projects for building my portfolio.**
 - 💻 I'm looking for opportunities **to work as coder in Finland.**
 - ⚡ Fun fact: I can say "I love coffee" in 5 languages.
-- 🧏 About me: 
 - 📁 Portfolio: Check out my portfolio https://github.com/jirimicvl/portfolio  
 
 <!-- - 🤔 I’m looking for help with ...
@@ -23,7 +24,7 @@ I dabble in coding with several projects and hope to work with you coders!!
 - 📫 How to reach me: ...
 - 😄 Pronouns: MrJay, he, him,  -->
 
-## My completed studies so far
+## My completed coding studies so far
 
 ### Xamk
 - Module 1 - Introduction to development tools
