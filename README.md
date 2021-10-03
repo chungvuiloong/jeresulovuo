@@ -55,7 +55,7 @@ I dabble in coding with several projects and hope to work with you coders!!
 - Introduction to Kotlin
 - Introduction to Javascript
 - C++ Programming
-- C - Programming
+- C Programming
 
 ### Laurea
 - Digital Service Business and Marketing
