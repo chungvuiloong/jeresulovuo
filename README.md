@@ -13,7 +13,7 @@ I dabble in coding with several projects and hope to work with you coders!!
 ### 🧏 About me: 
 
 - 🔭 I’m currently working on **making myself proficient in coding languages and building my portfolio**.
-- 🌱 I’m currently improving my skills in **C#, Java, React, Kotlin.**
+- 🌱 I’m currently improving my skills in **Javascript, React, Rust. C#, Java, Kotlin.**
 - 👯 I’m looking to collaborate on **building new projects for building my portfolio.**
 - 💻 I'm looking for opportunities **to work as coder in Finland.**
 - ⚡ Fun fact: I can say "I love coffee" in 5 languages.
