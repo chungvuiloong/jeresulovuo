@@ -41,7 +41,6 @@ I dabble in coding with several projects and hope to work with you coders!!
 - Module 14 - Video Games Production
 - Module 14 - Games Industry and Data Analytics
 - Module 16 - Analysis of The Game I Play Now
-
 - Entrepreneurship and Small Business Marketing
 - Customer experience management
 - Fundamentals of strategic management
