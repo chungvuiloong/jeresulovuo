@@ -11,7 +11,8 @@ At the moment, I am studying online via Xamk, Metroplia and also Laurea for any 
 I dabble in coding with several projects and hope to work with you coders!!
 
 ### 🧏 About me: 
-
+<img src="https://www.codewars.com/users/Jirimicvl/badges/large?logo=false">
+- Level 5 Warrior in Codewars.
 - 🔭 I’m currently working on **making myself proficient in coding languages and building my portfolio**.
 - 🌱 I’m currently improving my skills in **Javascript, React.**
 - 👯 I’m looking to collaborate on **building new projects for building my portfolio.**
@@ -19,7 +20,7 @@ I dabble in coding with several projects and hope to work with you coders!!
 - ⚡ Fun fact: I can say "I love coffee" in 5 languages.
 - 📁 Portfolio: Check out my portfolio https://github.com/jirimicvl/portfolio  
 
-<img src="https://www.codewars.com/users/Jirimicvl/badges/large?logo=false">
+
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
