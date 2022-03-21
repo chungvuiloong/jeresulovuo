@@ -19,7 +19,7 @@ I dabble in coding with several projects and hope to work with you coders!!
 - ⚡ Fun fact: I can say "I love coffee" in 5 languages.
 - 📁 Portfolio: Check out my portfolio https://github.com/jirimicvl/portfolio  
 
-src="https://www.codewars.com/users/Jirimicvl/badges/large?logo=false"
+<img src="https://www.codewars.com/users/Jirimicvl/badges/large?logo=false">
 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
