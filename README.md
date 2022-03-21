@@ -10,8 +10,7 @@ At the moment, I am studying online via Xamk, Metroplia and also Laurea for any 
 
 I dabble in coding with several projects and hope to work with you coders!!
 
-### 🧏 About me: 
-<img src="https://www.codewars.com/users/Jirimicvl/badges/large?logo=false">
+### 🧏 About me:  <img src="https://www.codewars.com/users/Jirimicvl/badges/large?logo=false">
 
 - Level 5 Warrior in Codewars.
 - 🔭 I’m currently working on **making myself proficient in coding languages and building my portfolio**.
