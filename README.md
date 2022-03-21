@@ -12,6 +12,7 @@ I dabble in coding with several projects and hope to work with you coders!!
 
 ### 🧏 About me: 
 <img src="https://www.codewars.com/users/Jirimicvl/badges/large?logo=false">
+
 - Level 5 Warrior in Codewars.
 - 🔭 I’m currently working on **making myself proficient in coding languages and building my portfolio**.
 - 🌱 I’m currently improving my skills in **Javascript, React.**
