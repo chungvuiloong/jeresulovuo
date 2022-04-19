@@ -1,4 +1,11 @@
-## Whats up world! 👋
+I love coding and problem solving.
+
+I am currently improbing my coding via projects.
+
+
+
+
+<!-- ## Whats up world! 👋
 
 ### Jere here!!
 
@@ -24,3 +31,4 @@ I dabble in coding with several projects and hope to work with you coders!!
 - 📫 How to reach me: ...
 - 😄 Pronouns: MrJay, he, him,  -->
 
+ -->
