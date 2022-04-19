@@ -1,3 +1,5 @@
+Hi I am Jere from 🇲🇾 Malaysia and currently setting in 🇫🇮 Finland.
+
 I love coding and problem solving.
 
 I am currently improbing my coding via projects.
