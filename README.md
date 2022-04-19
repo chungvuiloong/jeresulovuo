@@ -3,8 +3,6 @@
 - I am currently improving my coding while studying coding via Business College Helsinki.
 - ⚡ Fun fact: I can say "I love coffee" in 6 languages.
 
-<img alt="React" src="https://archives.bulbagarden.net/media/upload/thumb/0/0d/025Pikachu.png/500px-025Pikachu.png" />
-
 ## Coded with:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
