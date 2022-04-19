@@ -1,8 +1,7 @@
-Hi I am Jere from 🇲🇾 Malaysia and currently setting in 🇫🇮 Finland.
-
-I love coding and problem solving.
-
-I am currently improving my coding while studying coding via Business College Helsinki.
+- Hi I am Jere from 🇲🇾 Malaysia and currently setting in 🇫🇮 Finland.
+- I love coding and problem solving.
+- I am currently improving my coding while studying coding via Business College Helsinki.
+- ⚡ Fun fact: I can say "I love coffee" in 5 languages.
 
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
