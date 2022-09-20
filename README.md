@@ -8,6 +8,7 @@ Check out my coding portfolio, https://mrjay-portfolio.netlify.app/ , it has:
 - my previous projects 
 - Facebook chat plugin (works with Google Chrome & Mozilla Firefox)
 
+My working life so far:
 https://www.linkedin.com/in/jere-cvl-540079123/
 
 ## Coded with:
