@@ -5,6 +5,7 @@
 
 Check out my coding portfolio, https://mrjay-portfolio.netlify.app/ , it has:
 - a form that validates your info
+- parrallex effect hero banner
 - my previous projects 
 - Facebook chat plugin (works with Google Chrome & Mozilla Firefox)
 
