@@ -3,6 +3,13 @@
 - I am currently improving my coding while studying coding via Business College Helsinki.
 - ⚡ Fun fact: I can say "I love coffee" in 6 languages.
 
+Check out my coding portfolio, https://mrjay-portfolio.netlify.app/ , it has:
+- a form that validates your info
+- my previous projects 
+- Facebook chat plugin (works with Google Chrome & Mozilla Firefox)
+
+https://www.linkedin.com/in/jere-cvl-540079123/
+
 ## Coded with:
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
