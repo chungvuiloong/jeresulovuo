@@ -11,7 +11,7 @@ Check out my coding portfolio, https://mrjay-portfolio.netlify.app/ , it has:
 - Facebook chat plugin (works with Google Chrome & Mozilla Firefox)
 
 My working life so far:
-https://www.linkedin.com/in/jere-cvl-540079123/
+www.linkedin.com/in/chungvuiloong
 
 ## Coded with:
 <p>
