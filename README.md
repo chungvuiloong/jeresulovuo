@@ -1,5 +1,5 @@
 - Hi I am Chung Vui Loong from 🇲🇾 Malaysia and currently setting in 🇫🇮 Finland.
-- Preferred to be knwon as 'Jere'.
+- Preferred to be known as 'Jere'.
 - I love coding and its problem solving part.
 - I am currently improving my coding while studying coding via Business College Helsinki.
 - ⚡ Fun fact: I can say "I love coffee" in 6 languages.
