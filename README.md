@@ -1,4 +1,4 @@
-- Hi I am Chung Vui Loong from 🇲🇾 Malaysia and currently setting in 🇫🇮 Finland.
+- Hi I am Chung Vui Loong from 🇲🇾 Malaysia and currently settled in 🇫🇮 Finland.
 - Preferred to be known as 'Jere'.
 - I love coding and its problem solving part.
 - I am currently improving my coding while studying coding via Business College Helsinki.
