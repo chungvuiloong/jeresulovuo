@@ -3,15 +3,15 @@
 - I love coding and its problem solving part.
 - I am currently improving my coding while studying coding via Business College Helsinki.
 - ⚡ Fun fact: I can say "I love coffee" in 6 languages.
+- My work experience: www.linkedin.com/in/chungvuiloong
 
-Check out my coding portfolio, https://mrjay-portfolio.netlify.app/ , it has:
+Check out my personal site, https://mrjay-portfolio.netlify.app/ , it has:
 - a form that validates your info
 - parrallex effect hero banner
 - my previous projects 
 - Facebook chat plugin (works with Google Chrome & Mozilla Firefox)
 
-My working life so far:
-www.linkedin.com/in/chungvuiloong
+My major project, Travel App: https://mrjaytravelapp.netlify.app/
 
 ## Coded with:
 <p>
