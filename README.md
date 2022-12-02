@@ -12,6 +12,9 @@ Check out my personal site, https://mrjay-portfolio.netlify.app/ , it has:
 - Facebook chat plugin (works with Google Chrome & Mozilla Firefox)
 
 My major project, Travel App: https://mrjaytravelapp.netlify.app/
+- Geo tracking of current country
+- Displays data of all countries
+- Display data specific to a certain country
 
 ## Coded with:
 <p>
