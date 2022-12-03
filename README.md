@@ -1,3 +1,7 @@
+Hi there!
+
+Congratulations on reaching my page!
+
 - Hi I am Chung Vui Loong from 🇲🇾 Malaysia and currently settled in 🇫🇮 Finland.
 - Preferred to be known as 'Jere'.
 - I love coding and its problem solving part.
@@ -5,16 +9,19 @@
 - ⚡ Fun fact: I can say "I love coffee" in 6 languages.
 - My work experience: www.linkedin.com/in/chungvuiloong
 
-Check out my personal site, https://mrjay-portfolio.netlify.app/ , it has:
-- a form that validates your info
-- parrallex effect hero banner
-- my previous projects 
-- Facebook chat plugin (works with Google Chrome & Mozilla Firefox)
-
 My major project, Travel App: https://mrjaytravelapp.netlify.app/
-- Geo tracking of current country
-- Displays data of all countries
-- Display data specific to a certain country
+- Geo tracking of current country.
+- Displays data of all countries.
+- Display data specific to a certain country.
+- Fetches data from 5 separate API and displays data accordingly to their respective components.
+
+Check out my personal site, https://mrjay-portfolio.netlify.app/ , it has:
+- a form that validates your info.
+- parrallex effect hero banner.
+- my previous projects.
+- Facebook chat plugin (works with Google Chrome & Mozilla Firefox).
+
+
 
 ## Coded with:
 <p>
