@@ -15,6 +15,8 @@ My major project, Travel App: https://mrjaytravelapp.netlify.app/
 - Display data specific to a certain country.
 - Fetches data from 5 separate API and displays data accordingly to their respective components.
 
+Check out my other projects! via https://jirimicvl.github.io
+
 Check out my personal site, https://mrjay-portfolio.netlify.app/ , it has:
 - a form that validates your info.
 - parrallex effect hero banner.
