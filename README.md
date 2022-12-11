@@ -9,7 +9,8 @@ Congratulations on reaching my page!
 - ⚡ Fun fact: I can say "I love coffee" in 6 languages.
 - My work experience: www.linkedin.com/in/chungvuiloong
 
-My major project, Travel App: https://mrjaytravelapp.netlify.app/
+My major/ hobby project, Travel App: https://mrjaytravelapp.netlify.app/
+Description: Took a basic country app. Improved and added advanced features. Now it has:
 - Geo tracking of current country.
 - Displays data of all countries.
 - Display data specific to a certain country.
