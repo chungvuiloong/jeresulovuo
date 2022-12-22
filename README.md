@@ -95,5 +95,5 @@ Check out my portfolio! via https://jirimicvl.github.io
 </p>
 
 ![Jere's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirimicvl&show_icons=true&theme=transparent)
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jirimicvl&theme=blue-green)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jirimicvl&theme=transparent)
       
