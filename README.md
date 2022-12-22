@@ -4,29 +4,13 @@ Congratulations on reaching my page!
 
 - Hi I am Chung Vui Loong from 🇲🇾 Malaysia and currently settled in 🇫🇮 Finland.
 - Preferred to be known as 'Jere'.
-- I love coding and its problem solving part.
-- I am currently improving my coding while studying coding via Business College Helsinki.
+- Love learning new programming langauges, syntax and its problem solving part.
+- Currently looking for either Junior/ Entry level positions or paid/ unpaid internships, available January 2023 onwards.
 - ⚡ Fun fact: I can say "I love coffee" in 6 languages.
-- My work experience: www.linkedin.com/in/chungvuiloong
+- Work experience (8 years - Mixed of recruitment, sales, construction, education).
+- Learn more from www.linkedin.com/in/chungvuiloong
 
-My major/ hobby project, Travel App: https://mrjaytravelapp.netlify.app/
-
-Description: Took a basic country app. Improved and added advanced features. Now it has:
-
-- Geo tracking of current country.
-- Displays data of all countries.
-- Display data specific to a certain country.
-- Fetches data from 5 separate API and displays data accordingly to their respective components.
-
-Check out my other projects! via https://jirimicvl.github.io
-
-Check out my personal site, https://mrjay-portfolio.netlify.app/ , it has:
-- a form that validates your info.
-- parrallex effect hero banner.
-- my previous projects.
-- Facebook chat plugin (works with Google Chrome & Mozilla Firefox).
-
-
+Check out my portfolio! via https://jirimicvl.github.io
 
 ## Coded with:
 <p>
