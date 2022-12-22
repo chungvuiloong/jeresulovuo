@@ -35,6 +35,15 @@ Check out my portfolio! via https://jirimicvl.github.io
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
-
+#### Communication Tools
+<p>
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img alt="Discord"  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"  />
+  <img alt="" src="" />
+  <img alt=""  src="" />
+  <img alt="" src=""  />
+  <img alt="" src=""  />
+</p>
 
 ![Jere's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirimicvl&show_icons=true&theme=transparent)
