@@ -16,12 +16,13 @@ Check out my portfolio! via https://jirimicvl.github.io
 
 #### Front-end
 <p>
-  <p>
       <img alt="CSS " src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" /> -
       <img alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"  />
       <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"  />
       <img alt="" src=""  />
-  </p>
+</p>
+<p>
+
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 
