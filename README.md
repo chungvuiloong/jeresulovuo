@@ -18,6 +18,13 @@ Check out my portfolio! via https://jirimicvl.github.io
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS " src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Javascript"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"  />
+    <img alt="" src=""  />
+  <img alt="" src=""  />
+    <img alt="" src=""  />
+  <img alt="" src=""  />
 </p>
 
 #### Back-end
@@ -25,6 +32,11 @@ Check out my portfolio! via https://jirimicvl.github.io
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"  />
+    <img alt="" src="" />
+  <img alt=""  src="" />
+  <img alt="" src=""  />
+  <img alt="" src=""  />
 </p>
 
 #### Other Tools
@@ -37,9 +49,9 @@ Check out my portfolio! via https://jirimicvl.github.io
 
 #### Communication Tools
 <p>
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-  <img alt="Discord"  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
-  <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white"  />
+  <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
+  <img alt="Discord"  src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" />
+  <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoft-teams&logoColor=white"  />
   <img alt="" src="" />
   <img alt=""  src="" />
   <img alt="" src=""  />
