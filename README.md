@@ -16,7 +16,7 @@ Check out my portfolio! via https://jirimicvl.github.io
 
 #### Front-end
 <p>
-      <img alt="CSS " src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" /> -
+      <img alt="CSS " src="https://img.shields.io/badge/CSS-239120?&style=flat-square&logo=css3&logoColor=white" />
       <img alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white"  />
       <img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=flat-square&logo=material-ui&logoColor=white"  />
       <img alt="" src=""  />
@@ -45,9 +45,18 @@ Check out my portfolio! via https://jirimicvl.github.io
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"  />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"  />
   <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=flat-square&logo=kotlin&logoColor=white"  />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=flat-square-&logo=mysql&logoColor=white"  />
   <img alt="" src=""  />
   <img alt="" src=""  />
   <img alt="" src=""  />
+  <img alt="" src=""  />
+  <img alt="" src=""  />
+  <img alt="" src=""  />
+</p>
+
+#### Test Automation
+<p>
+  <img alt="Jest" src="https://img.shields.io/badge/Jest-323330?style=flat-square&logo=Jest&logoColor=white"  />
   <img alt="" src=""  />
   <img alt="" src=""  />
   <img alt="" src=""  />
@@ -60,6 +69,18 @@ Check out my portfolio! via https://jirimicvl.github.io
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white"  />
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"  />
+  <img alt="" src=""  />
+  <img alt="" src=""  />
+  <img alt="" src=""  />
+  <img alt="" src=""  />
+  <img alt="" src=""  />
+  <img alt="" src=""  />
+  <img alt="" src=""  />
+  <img alt="" src=""  />
+  <img alt="" src=""  />
+  <img alt="" src=""  />
 </p>
 
 #### Communication Tools
