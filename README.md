@@ -13,8 +13,9 @@ Congratulations on reaching my page!
 Check out my portfolio! via https://jirimicvl.github.io
 
 ## Coded with:
+
+#### Front-end
 <p>
-  #### Front-end
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 </p>
 <p>
