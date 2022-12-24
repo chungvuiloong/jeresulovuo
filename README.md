@@ -7,7 +7,7 @@ Congratulations on reaching my page!
 - Love learning new programming langauges, syntax and its problem solving part.
 - Currently looking for either Junior/ Entry level positions or paid/ unpaid internships, available January 2023 onwards.
 - ⚡ Fun fact: I can say "I love coffee" in 6 languages.
-- Work experience (8 years - Mixed of recruitment, sales, construction, education).
+- Work experience (6+ years - Mixed of recruitment, sales, construction, education).
 - Learn more from www.linkedin.com/in/chungvuiloong
 
 Check out my portfolio! via https://jirimicvl.github.io
