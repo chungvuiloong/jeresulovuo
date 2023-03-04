@@ -1,16 +1,12 @@
-Hi there!
+Hi there! 
 
-Congratulations on reaching my page!
+I'm Jere, a programming enthusiast from 🇲🇾 Malaysia currently based in 🇫🇮 Finland. I have a passion for learning new programming languages and their problem-solving capabilities. I am actively seeking entry-level positions or internships (paid/unpaid) starting from January 2023 onwards.
 
-- Hi I am Chung Vui Loong from 🇲🇾 Malaysia and currently settled in 🇫🇮 Finland.
-- Preferred to be known as 'Jere'.
-- Love learning new programming langauges, syntax and its problem solving part.
-- Currently looking for either Junior/ Entry level positions or paid/ unpaid internships, available January 2023 onwards.
-- ⚡ Fun fact: I can say "I love coffee" in 6 languages.
-- Work experience (6+ years - Mixed of recruitment, sales, construction, education).
-- Learn more from www.linkedin.com/in/chungvuiloong
+Apart from programming, I have experience in recruitment, sales, construction, and education fields spanning over 6 years. You can find out more about my work experience and skills on my LinkedIn profile at www.linkedin.com/in/chungvuiloong.
 
-Check out my portfolio! via https://jirimicvl.github.io
+Fun fact about me - I can say "I love coffee" in 6 different languages!
+
+Check out my portfolio at https://jirimicvl.github.io to see some of the projects I've worked on.
 
 ## Learned Technologies:
 
