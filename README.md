@@ -2,7 +2,7 @@ Hi there!
 
 I'm Jere, a programming enthusiast aiming to be a V-shaped programmer, from 🇲🇾 Malaysia currently based in 🇫🇮 Finland. I have a passion for learning new programming languages. I am actively seeking entry-level positions or internships (paid/unpaid) starting from January 2023 onwards.
 
-Apart from programming, I have experience in recruitment, sales, construction, and education fields spanning over 6 years. You can find out more about my work experience and skills on my LinkedIn profile at www.linkedin.com/in/chungvuiloong.
+Apart from programming, I have experience in recruitment, sales, construction, and education fields spanning over 6 years. You can find out more about my work experience and skills on my LinkedIn profile at www.linkedin.com/in/jeresulovuo.
 
 Fun fact about me - I can say "I love coffee" in 6 different languages!
 
