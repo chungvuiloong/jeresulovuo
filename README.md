@@ -6,8 +6,6 @@ Apart from programming, I have experience in recruitment, sales, construction, a
 
 Fun fact about me - I can say "I love coffee" in 6 different languages!
 
-Check out my portfolio at https://jirimicvl.github.io to see some of the projects I've worked on.
-
 ## Learned Technologies:
 
 #### Front-end
