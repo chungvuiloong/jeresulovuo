@@ -90,7 +90,7 @@ Fun fact about me - I can say "I love coffee" in 6 different languages!
   <img alt="" src=""  />
 </p>
 
-![Jere's GitHub stats](https://github-readme-stats.vercel.app/api?username=jirimicvl&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jirimicvl&layout=compact)](https://github.com/jirimicvl/github-readme-stats)
+![Jere's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeresulovuo&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeresulovuo&layout=compact)](https://github.com/jeresulovuo/github-readme-stats)
 
       
