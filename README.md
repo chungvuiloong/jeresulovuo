@@ -8,6 +8,13 @@ Apart from programming, I have experience in recruitment, sales, construction, a
 
 Fun fact about me - I can say "I love coffee" in 6 different languages!
 
+You can also check out my GitHub and portfolio to see some of my projects:
+
+My GitHub: https://github.com/jeresulovuo <br/>
+My Website portfolio: https://mrjay-portfolio.netlify.app/ <br/>
+My Latest project: https://mrjaytravelapp.netlify.app/ <br/>
+My latest company assignment: https://lianatechnologylandingpage.vercel.app/ <br/>
+
 ## Learned Technologies:
 
 #### Front-end
