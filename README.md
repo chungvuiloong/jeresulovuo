@@ -4,8 +4,6 @@ I'm Jere, a programming enthusiast aiming to be a V-shaped programmer, from 🇲
 
 Currently working with a German Startup that provides an AI-supported platform that enables small businesses to create, manage and share content from one place helping them save time, money, and effort.
 
-Apart from programming, I have experience in recruitment, sales, construction, and education fields spanning over 6 years. You can find out more about my work experience and skills on my LinkedIn profile at www.linkedin.com/in/jeresulovuo.
-
 Fun fact about me - I can say "I love coffee" in 6 different languages!
 
 You can also check out my GitHub and portfolio to see some of my projects:
@@ -13,7 +11,10 @@ You can also check out my GitHub and portfolio to see some of my projects:
 My GitHub: https://github.com/jeresulovuo <br/>
 My Website portfolio: https://mrjay-portfolio.netlify.app/ <br/>
 My Latest project: https://mrjaytravelapp.netlify.app/ <br/>
-My latest company assignment: https://lianatechnologylandingpage.vercel.app/ <br/>
+
+My latest company coding entry assignment: <br/>
+- https://lianatechnologylandingpage.vercel.app/ <br/>
+- https://retink-landingpage.vercel.app/ <br />
 
 ## Learned Technologies:
 
