@@ -99,6 +99,6 @@ My latest company coding entry assignment: <br/>
 </p>
 
 ![Jere's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeresulovuo&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeresulovuo&layout=compact)](https://github.com/jeresulovuo/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeresulovuo&layout=compact)](https://github.com/jeresulovuo/github-readme-stats) -->
 
       
