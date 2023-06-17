@@ -1,6 +1,6 @@
 Hi there! 
 
-I'm Jere, a programming enthusiast aiming to be a V-shaped programmer, from 🇲🇾 Malaysia currently based in 🇫🇮 Finland. I have a passion for learning new programming languages. 
+I'm Jere, a programming enthusiast aiming to be a V-shaped programmer, from 🇲🇾 Malaysia currently based in 🇫🇮 Finland. Passionate in learning new technologies and learning new programming languages. 
 
 Currently working with a German Startup that provides an AI-supported platform that enables small businesses to create, manage and share content from one place helping them save time, money, and effort.
 
