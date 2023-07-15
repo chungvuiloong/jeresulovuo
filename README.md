@@ -9,7 +9,7 @@ Fun fact about me - I can say "I love coffee" in 6 different languages!
 You can also check out my GitHub and portfolio to see some of my projects:
 
 GitHub: https://github.com/jeresulovuo <br/>
-Website portfolio: https://mrjay-portfolio.netlify.app/ <br/>
+Website portfolio: https://mrjays-simple-portfolio.vercel.app/ <br/>
 Latest project: https://mrjaytravelapp.netlify.app/ <br/>
 
 Latest company coding entry assignment: <br/>
