@@ -1,16 +1,23 @@
 Hi there! 
 
-I'm Jere, a programming enthusiast aiming to be a V-shaped programmer, from 🇲🇾 Malaysia currently based in 🇫🇮 Finland. Passionate in learning new technologies and learning new programming languages. 
+I'm Jere, a programming enthusiast aiming to be a V-shaped programmer, from 🇲🇾 Malaysia currently living and settling in 🇫🇮 Finland. Passionate in learning new technologies and learning new programming languages.
 
-Currently working with a German Startup that provides an AI-supported platform that enables small businesses to create, manage and share content from one place helping them save time, money, and effort.
+At the moment, I am using React.js (or languages similar such as Next.js) and tailwind.css
 
-Fun fact about me - I can say "I love coffee" in 6 different languages!
+<b> Currently working with: </b>
+- A Danish startup with a mission to interupt telecom industry with sustainability.
+- A German Startup that provides an AI-supported platform that enables small businesses to create, manage and share content from one place helping them save time, money, and effort.
+
+<b> Fun fact about me: </b>
+- I can say "I love coffee" in 6 different languages!
+- Master negotiator in eBay and Tori.
+- Passsionate lover of chocolate and coffee.
 
 You can also check out my GitHub and portfolio to see some of my projects:
 
-GitHub: https://github.com/jeresulovuo <br/>
-Website portfolio: https://mrjays-simple-portfolio.vercel.app/ <br/>
-Latest project: https://mrjaytravelapp.netlify.app/ <br/>
+<b>GitHub:</b> https://github.com/jeresulovuo <br/>
+<b>Website portfolio:</b> https://mrjays-simple-portfolio.vercel.app/ <b> Work in progress </b> <br/>
+<b>Latest project:</b> https://mrjaytravelapp.netlify.app/ <br/>
 
 Latest company coding entry assignment: <br/>
 - https://lianatechnologylandingpage.vercel.app/ <br/>
