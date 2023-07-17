@@ -5,7 +5,7 @@ I'm Jere, a programming enthusiast aiming to be a V-shaped programmer, from 🇲
 At the moment, I am using React.js (or languages similar such as Next.js), TypeScript and tailwind.css
 
 <b> Currently working with: </b>
-- A Danish startup with a mission to interupt telecom industry with sustainability.
+- A Danish startup with a mission to interrupt telecom industry with sustainability.
 - A German Startup that provides an AI-supported platform that enables small businesses to create, manage and share content from one place helping them save time, money, and effort.
 
 <b> Fun fact about me: </b>
