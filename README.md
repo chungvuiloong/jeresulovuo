@@ -2,7 +2,7 @@ Hi there!
 
 I'm Jere, a programming enthusiast aiming to be a V-shaped programmer, from 🇲🇾 Malaysia currently living and settling in 🇫🇮 Finland. Passionate in learning new technologies and learning new programming languages.
 
-At the moment, I am using React.js (or languages similar such as Next.js), TypeScript and tailwind.css
+At the moment, I am using React.js (and similar languages such as Next.js), TypeScript and tailwind.css/ Material Tailwind
 
 <b> Worked with: </b>
 - A Danish startup with a mission to interrupt telecom industry with sustainability.
