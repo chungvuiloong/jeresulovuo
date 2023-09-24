@@ -106,7 +106,7 @@ Latest company coding entry assignment: <br/>
   <img alt="" src=""  />
 </p>
 
-![Jere's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeresulovuo&show_icons=true&theme=transparent)
+<!-- ![Jere's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeresulovuo&show_icons=true&theme=transparent) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeresulovuo&layout=compact)](https://github.com/jeresulovuo/github-readme-stats) -->
 
       
