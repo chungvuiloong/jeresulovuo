@@ -1,6 +1,6 @@
 Hi there! 
 
-I'm Jere, a programming enthusiast aiming to be a V-shaped programmer, from 🇲🇾 Malaysia currently living and settling in 🇫🇮 Finland. Passionate in learning new technologies and learning new programming languages.
+I'm Jere, a full stack developer (proficient in front-end) aiming to be a V-shaped programmer. Originally from 🇲🇾 Malaysia currently living and settling in 🇫🇮 Finland. Passionate in learning new technologies and learning new programming languages.
 
 At the moment, I am using React.js (and similar languages such as Next.js), TypeScript and tailwind.css/ Material Tailwind
 
