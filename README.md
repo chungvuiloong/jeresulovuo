@@ -17,11 +17,15 @@ You can also check out my GitHub and portfolio to see some of my projects:
 
 <b>GitHub:</b> https://github.com/jeresulovuo <br/>
 <b>Website portfolio:</b> https://mrjays-simple-portfolio.vercel.app/ <b> Work in progress </b> <br/>
-<b>Latest project:</b> https://mrjaytravelapp.netlify.app/ <b> Refactoring & design in progress </b> <br/>
+<b>Latest project:</b>
+https://mrjays-bmi-calculator.vercel.app/ <br/>
+https://mrjaytravelapp.netlify.app/ <b> Refactoring & design in progress </b> <br/>
 
+<!-- 
 Latest company coding entry assignment: <br/>
 - https://lianatechnologylandingpage.vercel.app/ <br/>
 - https://retink-landingpage.vercel.app/ <br />
+-->
 
 ## Learned Technologies:
 
