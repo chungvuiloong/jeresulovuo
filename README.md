@@ -17,7 +17,7 @@ You can also check out my GitHub and portfolio to see some of my projects:
 
 <b>GitHub:</b> https://github.com/jeresulovuo <br/>
 <b>Website portfolio:</b> https://mrjays-simple-portfolio.vercel.app/ <b> Work in progress </b> <br/>
-<b>Latest project:</b>
+<b>Latest project:</b> <br/>
 https://mrjays-bmi-calculator.vercel.app/ <br/>
 https://mrjaytravelapp.netlify.app/ <b> Refactoring & design in progress </b> <br/>
 
